@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Temperatura</string>
+
+    <string name="txt_Titulo">CONVERSIÓN DE TEMPERATURA</string>
+    <string name="txt_convertir">Convertir:</string>
+    <string name="txt_hint_Grados">Grados</string>
+    <string name="txt_A">A:</string>
+    <string name="txt_Igual">=</string>
+    <string name="btn_restablecer">RESTABLECER</string>
+
+    <string-array name="temperatura1">
+        <item>Temperatura</item>
+        <item>Celcius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+        <item>Rankine</item>
+        <item>Réaumur</item>
+    </string-array>
+
+    <string-array name="temperatura2">
+        <item>Temperatura</item>
+        <item>Celcius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+        <item>Rankine</item>
+        <item>Réaumur</item>
+    </string-array>
+
+</resources>
